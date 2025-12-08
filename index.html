@@ -770,7 +770,7 @@
                 case 'ENTREGADO': html = `✅ ¡Tu pedido ya fue entregado! Gracias por participar.`; break;
                 case 'AUSENTE': html = `🟡 Te llamamos pero estabas ausente. Se te volverá a llamar al final de la lista.`; break;
                 case 'NO_ENCONTRADO': html = `<span class="error">❌ No se encontró tu nombre de usuario.</span><br><small>Asegúrate de haberlo escrito correctamente y de haberte registrado en el formulario del reparto actual.</small>`; break;
-                case 'ERROR': default: html = `<span class="error">❌ Ocurrió un error al procesar tu solicitud.</span><br><small>Por favor, inténtalo de nuevo más tarde.</small>`; break;
+                case 'ERROR': default: html = `<span class="error">⚠️ La lista parece estar vacía o inactiva.</span><br><small>Actualmente no hay nadie anotado. Por favor, espera a que inicie el reparto e inténtalo de nuevo.</small>`; break;
             }
             resultadoDiv.innerHTML = html;
         }
