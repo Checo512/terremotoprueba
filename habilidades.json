@@ -1,0 +1,2144 @@
+[
+  {
+    "id": 65,
+    "nombre": "overgrow",
+    "generacion": 3,
+    "descripcion": "Potencia los ataques de tipo Planta en un apuro.",
+    "pokemon_con_habilidad_count": 32
+  },
+  {
+    "id": 34,
+    "nombre": "chlorophyll",
+    "generacion": 3,
+    "descripcion": "Sube la Velocidad cuando hay sol.",
+    "pokemon_con_habilidad_count": 39
+  },
+  {
+    "id": 47,
+    "nombre": "thick-fat",
+    "generacion": 3,
+    "descripcion": "Atenúa los ataques de tipo Fuego y Hielo.",
+    "pokemon_con_habilidad_count": 33
+  },
+  {
+    "id": 66,
+    "nombre": "blaze",
+    "generacion": 3,
+    "descripcion": "Potencia los ataques de tipo Fuego en un apuro.",
+    "pokemon_con_habilidad_count": 32
+  },
+  {
+    "id": 94,
+    "nombre": "solar-power",
+    "generacion": 4,
+    "descripcion": "Si hace sol, baja los PS, pero potencia el At. Esp.",
+    "pokemon_con_habilidad_count": 10
+  },
+  {
+    "id": 181,
+    "nombre": "tough-claws",
+    "generacion": 6,
+    "descripcion": "Aumenta la potencia de los movimientos de contacto directo.",
+    "pokemon_con_habilidad_count": 8
+  },
+  {
+    "id": 70,
+    "nombre": "drought",
+    "generacion": 3,
+    "descripcion": "El sol sale si el Pokémon entra en combate.",
+    "pokemon_con_habilidad_count": 5
+  },
+  {
+    "id": 67,
+    "nombre": "torrent",
+    "generacion": 3,
+    "descripcion": "Potencia los ataques de tipo Agua en un apuro.",
+    "pokemon_con_habilidad_count": 32
+  },
+  {
+    "id": 44,
+    "nombre": "rain-dish",
+    "generacion": 3,
+    "descripcion": "Recupera PS de forma gradual cuando llueve.",
+    "pokemon_con_habilidad_count": 14
+  },
+  {
+    "id": 178,
+    "nombre": "mega-launcher",
+    "generacion": 6,
+    "descripcion": "Aumenta la potencia de algunos movimientos de pulsos y auras.",
+    "pokemon_con_habilidad_count": 3
+  },
+  {
+    "id": 19,
+    "nombre": "shield-dust",
+    "generacion": 3,
+    "descripcion": "Anula el efecto secundario del ataque sufrido.",
+    "pokemon_con_habilidad_count": 12
+  },
+  {
+    "id": 50,
+    "nombre": "run-away",
+    "generacion": 3,
+    "descripcion": "Permite escapar de todos los Pokémon salvajes.",
+    "pokemon_con_habilidad_count": 37
+  },
+  {
+    "id": 61,
+    "nombre": "shed-skin",
+    "generacion": 3,
+    "descripcion": "Cura los problemas de estado mudando la piel.",
+    "pokemon_con_habilidad_count": 21
+  },
+  {
+    "id": 14,
+    "nombre": "compound-eyes",
+    "generacion": 3,
+    "descripcion": "Aumenta la Precisión del Pokémon.",
+    "pokemon_con_habilidad_count": 13
+  },
+  {
+    "id": 110,
+    "nombre": "tinted-lens",
+    "generacion": 4,
+    "descripcion": "Potencia los movimientos que no son muy eficaces.",
+    "pokemon_con_habilidad_count": 13
+  },
+  {
+    "id": 68,
+    "nombre": "swarm",
+    "generacion": 3,
+    "descripcion": "Potencia los ataques de tipo Bicho en un apuro.",
+    "pokemon_con_habilidad_count": 32
+  },
+  {
+    "id": 97,
+    "nombre": "sniper",
+    "generacion": 4,
+    "descripcion": "Potencia los movimientos si se vuelven críticos.",
+    "pokemon_con_habilidad_count": 18
+  },
+  {
+    "id": 91,
+    "nombre": "adaptability",
+    "generacion": 4,
+    "descripcion": "Potencia los movimientos del mismo tipo del Pokémon.",
+    "pokemon_con_habilidad_count": 19
+  },
+  {
+    "id": 51,
+    "nombre": "keen-eye",
+    "generacion": 3,
+    "descripcion": "Evita que disminuya la Precisión.",
+    "pokemon_con_habilidad_count": 43
+  },
+  {
+    "id": 77,
+    "nombre": "tangled-feet",
+    "generacion": 4,
+    "descripcion": "Sube la Evasión si el Pokémon está confuso.",
+    "pokemon_con_habilidad_count": 9
+  },
+  {
+    "id": 145,
+    "nombre": "big-pecks",
+    "generacion": 5,
+    "descripcion": "Protege de los ataques que bajan la Defensa.",
+    "pokemon_con_habilidad_count": 15
+  },
+  {
+    "id": 99,
+    "nombre": "no-guard",
+    "generacion": 4,
+    "descripcion": "El movimiento del Pokémon y el del rival acertarán.",
+    "pokemon_con_habilidad_count": 11
+  },
+  {
+    "id": 62,
+    "nombre": "guts",
+    "generacion": 3,
+    "descripcion": "Sube el Ataque si sufre un problema de estado.",
+    "pokemon_con_habilidad_count": 26
+  },
+  {
+    "id": 55,
+    "nombre": "hustle",
+    "generacion": 3,
+    "descripcion": "Aumenta el Ataque, pero reduce la Precisión.",
+    "pokemon_con_habilidad_count": 30
+  },
+  {
+    "id": 82,
+    "nombre": "gluttony",
+    "generacion": 4,
+    "descripcion": "Fomenta el uso rápido de la baya que porte.",
+    "pokemon_con_habilidad_count": 39
+  },
+  {
+    "id": 22,
+    "nombre": "intimidate",
+    "generacion": 3,
+    "descripcion": "Baja el Ataque del rival.",
+    "pokemon_con_habilidad_count": 46
+  },
+  {
+    "id": 127,
+    "nombre": "unnerve",
+    "generacion": 5,
+    "descripcion": "Pone nervioso al rival y le impide usar bayas.",
+    "pokemon_con_habilidad_count": 28
+  },
+  {
+    "id": 9,
+    "nombre": "static",
+    "generacion": 3,
+    "descripcion": "Puede paralizar al mínimo contacto.",
+    "pokemon_con_habilidad_count": 38
+  },
+  {
+    "id": 31,
+    "nombre": "lightning-rod",
+    "generacion": 3,
+    "descripcion": "Atrae y neutraliza movimientos de tipo Eléctrico y sube el At. Esp.",
+    "pokemon_con_habilidad_count": 37
+  },
+  {
+    "id": 207,
+    "nombre": "surge-surfer",
+    "generacion": 7,
+    "descripcion": "Duplica la Velocidad si hay un campo eléctrico en el terreno de combate.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 8,
+    "nombre": "sand-veil",
+    "generacion": 3,
+    "descripcion": "Aumenta la Evasión en las tormentas de arena.",
+    "pokemon_con_habilidad_count": 30
+  },
+  {
+    "id": 146,
+    "nombre": "sand-rush",
+    "generacion": 5,
+    "descripcion": "Aumenta la Velocidad durante las tormentas de arena.",
+    "pokemon_con_habilidad_count": 10
+  },
+  {
+    "id": 81,
+    "nombre": "snow-cloak",
+    "generacion": 4,
+    "descripcion": "Sube la Evasión durante una tormenta de granizo.",
+    "pokemon_con_habilidad_count": 15
+  },
+  {
+    "id": 202,
+    "nombre": "slush-rush",
+    "generacion": 7,
+    "descripcion": "Aumenta su Velocidad si está granizando.",
+    "pokemon_con_habilidad_count": 7
+  },
+  {
+    "id": 38,
+    "nombre": "poison-point",
+    "generacion": 3,
+    "descripcion": "Puede envenenar al mínimo contacto.",
+    "pokemon_con_habilidad_count": 20
+  },
+  {
+    "id": 79,
+    "nombre": "rivalry",
+    "generacion": 4,
+    "descripcion": "Si el objetivo es del mismo sexo, inflige más daño.",
+    "pokemon_con_habilidad_count": 18
+  },
+  {
+    "id": 125,
+    "nombre": "sheer-force",
+    "generacion": 5,
+    "descripcion": "Sube la potencia y anula los efectos secundarios.",
+    "pokemon_con_habilidad_count": 37
+  },
+  {
+    "id": 56,
+    "nombre": "cute-charm",
+    "generacion": 3,
+    "descripcion": "Tocar al Pokémon puede causar enamoramiento.",
+    "pokemon_con_habilidad_count": 15
+  },
+  {
+    "id": 98,
+    "nombre": "magic-guard",
+    "generacion": 4,
+    "descripcion": "Solo dañan al Pokémon los ataques directos.",
+    "pokemon_con_habilidad_count": 10
+  },
+  {
+    "id": 132,
+    "nombre": "friend-guard",
+    "generacion": 5,
+    "descripcion": "Reduce el daño que sufren los aliados.",
+    "pokemon_con_habilidad_count": 10
+  },
+  {
+    "id": 109,
+    "nombre": "unaware",
+    "generacion": 4,
+    "descripcion": "No tiene en cuenta las mejoras en las características del rival.",
+    "pokemon_con_habilidad_count": 15
+  },
+  {
+    "id": 18,
+    "nombre": "flash-fire",
+    "generacion": 3,
+    "descripcion": "Potencia movimientos de tipo Fuego si ha sufrido antes alguno.",
+    "pokemon_con_habilidad_count": 29
+  },
+  {
+    "id": 117,
+    "nombre": "snow-warning",
+    "generacion": 4,
+    "descripcion": "El Pokémon invoca una tormenta de granizo.",
+    "pokemon_con_habilidad_count": 8
+  },
+  {
+    "id": 172,
+    "nombre": "competitive",
+    "generacion": 6,
+    "descripcion": "Aumenta su At. Esp. cuando disminuyen otras características.",
+    "pokemon_con_habilidad_count": 15
+  },
+  {
+    "id": 119,
+    "nombre": "frisk",
+    "generacion": 4,
+    "descripcion": "El Pokémon puede ver el objeto que lleva el rival.",
+    "pokemon_con_habilidad_count": 38
+  },
+  {
+    "id": 39,
+    "nombre": "inner-focus",
+    "generacion": 3,
+    "descripcion": "Evita el retroceso.",
+    "pokemon_con_habilidad_count": 38
+  },
+  {
+    "id": 151,
+    "nombre": "infiltrator",
+    "generacion": 5,
+    "descripcion": "Ataca rodeando la barrera del rival.",
+    "pokemon_con_habilidad_count": 26
+  },
+  {
+    "id": 1,
+    "nombre": "stench",
+    "generacion": 3,
+    "descripcion": "Es posible que el rival retroceda por el mal olor.",
+    "pokemon_con_habilidad_count": 10
+  },
+  {
+    "id": 27,
+    "nombre": "effect-spore",
+    "generacion": 3,
+    "descripcion": "Puede dormir, envenenar o paralizar al contacto.",
+    "pokemon_con_habilidad_count": 11
+  },
+  {
+    "id": 87,
+    "nombre": "dry-skin",
+    "generacion": 4,
+    "descripcion": "Pierde PS si hace calor. Los recupera con agua.",
+    "pokemon_con_habilidad_count": 7
+  },
+  {
+    "id": 6,
+    "nombre": "damp",
+    "generacion": 3,
+    "descripcion": "Evita que un Pokémon pueda autodestruirse.",
+    "pokemon_con_habilidad_count": 20
+  },
+  {
+    "id": 147,
+    "nombre": "wonder-skin",
+    "generacion": 5,
+    "descripcion": "Dificulta que le afecten los ataques de estado.",
+    "pokemon_con_habilidad_count": 5
+  },
+  {
+    "id": 71,
+    "nombre": "arena-trap",
+    "generacion": 3,
+    "descripcion": "Evita que el rival huya.",
+    "pokemon_con_habilidad_count": 3
+  },
+  {
+    "id": 159,
+    "nombre": "sand-force",
+    "generacion": 5,
+    "descripcion": "Potencia algunos movimientos durante las tormentas de arena.",
+    "pokemon_con_habilidad_count": 18
+  },
+  {
+    "id": 221,
+    "nombre": "tangling-hair",
+    "generacion": 7,
+    "descripcion": "Baja la Velocidad del rival cuando este ataca al Pokémon con un movimiento de contacto.",
+    "pokemon_con_habilidad_count": 2
+  },
+  {
+    "id": 53,
+    "nombre": "pickup",
+    "generacion": 3,
+    "descripcion": "El Pokémon puede encontrar objetos.",
+    "pokemon_con_habilidad_count": 30
+  },
+  {
+    "id": 101,
+    "nombre": "technician",
+    "generacion": 4,
+    "descripcion": "Potencia los movimientos más débiles del Pokémon.",
+    "pokemon_con_habilidad_count": 28
+  },
+  {
+    "id": 155,
+    "nombre": "rattled",
+    "generacion": 5,
+    "descripcion": "El miedo a algunos ataques sube su Velocidad.",
+    "pokemon_con_habilidad_count": 21
+  },
+  {
+    "id": 7,
+    "nombre": "limber",
+    "generacion": 3,
+    "descripcion": "Evita ser paralizado.",
+    "pokemon_con_habilidad_count": 14
+  },
+  {
+    "id": 169,
+    "nombre": "fur-coat",
+    "generacion": 6,
+    "descripcion": "Reduce a la mitad el daño recibido por ataques físicos.",
+    "pokemon_con_habilidad_count": 2
+  },
+  {
+    "id": 13,
+    "nombre": "cloud-nine",
+    "generacion": 3,
+    "descripcion": "Anula los efectos del tiempo atmosférico.",
+    "pokemon_con_habilidad_count": 7
+  },
+  {
+    "id": 33,
+    "nombre": "swift-swim",
+    "generacion": 3,
+    "descripcion": "Sube la Velocidad cuando hay lluvia.",
+    "pokemon_con_habilidad_count": 48
+  },
+  {
+    "id": 72,
+    "nombre": "vital-spirit",
+    "generacion": 3,
+    "descripcion": "Evita el quedarse dormido.",
+    "pokemon_con_habilidad_count": 16
+  },
+  {
+    "id": 83,
+    "nombre": "anger-point",
+    "generacion": 4,
+    "descripcion": "Sube el Ataque al máximo tras un golpe crítico.",
+    "pokemon_con_habilidad_count": 12
+  },
+  {
+    "id": 128,
+    "nombre": "defiant",
+    "generacion": 5,
+    "descripcion": "Sube el Ataque cuando el rival le baja las características.",
+    "pokemon_con_habilidad_count": 16
+  },
+  {
+    "id": 154,
+    "nombre": "justified",
+    "generacion": 5,
+    "descripcion": "Sube el Ataque al recibir uno de tipo Siniestro.",
+    "pokemon_con_habilidad_count": 10
+  },
+  {
+    "id": 69,
+    "nombre": "rock-head",
+    "generacion": 3,
+    "descripcion": "Impide que el Pokémon se dañe con sus movimientos.",
+    "pokemon_con_habilidad_count": 24
+  },
+  {
+    "id": 11,
+    "nombre": "water-absorb",
+    "generacion": 3,
+    "descripcion": "Recupera PS al recibir ataques de tipo Agua.",
+    "pokemon_con_habilidad_count": 30
+  },
+  {
+    "id": 28,
+    "nombre": "synchronize",
+    "generacion": 3,
+    "descripcion": "Contagia envenenamiento, parálisis o quemaduras.",
+    "pokemon_con_habilidad_count": 18
+  },
+  {
+    "id": 36,
+    "nombre": "trace",
+    "generacion": 3,
+    "descripcion": "Copia la habilidad del rival.",
+    "pokemon_con_habilidad_count": 6
+  },
+  {
+    "id": 80,
+    "nombre": "steadfast",
+    "generacion": 4,
+    "descripcion": "Cada vez que retrocede sube su Velocidad.",
+    "pokemon_con_habilidad_count": 16
+  },
+  {
+    "id": 29,
+    "nombre": "clear-body",
+    "generacion": 3,
+    "descripcion": "Evita que bajen las características.",
+    "pokemon_con_habilidad_count": 19
+  },
+  {
+    "id": 64,
+    "nombre": "liquid-ooze",
+    "generacion": 3,
+    "descripcion": "Hiere a los Pokémon que drenan PS.",
+    "pokemon_con_habilidad_count": 4
+  },
+  {
+    "id": 5,
+    "nombre": "sturdy",
+    "generacion": 3,
+    "descripcion": "Evita que el rival pueda debilitarle de un solo golpe.",
+    "pokemon_con_habilidad_count": 48
+  },
+  {
+    "id": 42,
+    "nombre": "magnet-pull",
+    "generacion": 3,
+    "descripcion": "Impide huir a los Pokémon de tipo Acero.",
+    "pokemon_con_habilidad_count": 9
+  },
+  {
+    "id": 206,
+    "nombre": "galvanize",
+    "generacion": 7,
+    "descripcion": "Convierte los movimientos de tipo Normal en tipo Eléctrico y aumenta ligeramente su potencia.",
+    "pokemon_con_habilidad_count": 3
+  },
+  {
+    "id": 49,
+    "nombre": "flame-body",
+    "generacion": 3,
+    "descripcion": "Puede quemar al mínimo contacto.",
+    "pokemon_con_habilidad_count": 23
+  },
+  {
+    "id": 257,
+    "nombre": "pastel-veil",
+    "generacion": 8,
+    "descripcion": "Se protege a sí mismo y a sus aliados del envenenamiento.",
+    "pokemon_con_habilidad_count": 2
+  },
+  {
+    "id": 107,
+    "nombre": "anticipation",
+    "generacion": 4,
+    "descripcion": "Prevé los movimientos peligrosos del rival.",
+    "pokemon_con_habilidad_count": 18
+  },
+  {
+    "id": 12,
+    "nombre": "oblivious",
+    "generacion": 3,
+    "descripcion": "Evita que el Pokémon sea atraído o provocado.",
+    "pokemon_con_habilidad_count": 26
+  },
+  {
+    "id": 20,
+    "nombre": "own-tempo",
+    "generacion": 3,
+    "descripcion": "Evita ser confundido.",
+    "pokemon_con_habilidad_count": 33
+  },
+  {
+    "id": 144,
+    "nombre": "regenerator",
+    "generacion": 5,
+    "descripcion": "Recupera unos pocos PS al cambiar de Pokémon.",
+    "pokemon_con_habilidad_count": 27
+  },
+  {
+    "id": 75,
+    "nombre": "shell-armor",
+    "generacion": 3,
+    "descripcion": "Bloquea los golpes críticos.",
+    "pokemon_con_habilidad_count": 31
+  },
+  {
+    "id": 259,
+    "nombre": "quick-draw",
+    "generacion": 8,
+    "descripcion": "A veces, puede atacar el primero.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 148,
+    "nombre": "analytic",
+    "generacion": 5,
+    "descripcion": "Potencia el movimiento si es el último en atacar.",
+    "pokemon_con_habilidad_count": 12
+  },
+  {
+    "id": 113,
+    "nombre": "scrappy",
+    "generacion": 4,
+    "descripcion": "Movimientos tipo Normal y Lucha golpean a Pokémon Fantasma.",
+    "pokemon_con_habilidad_count": 15
+  },
+  {
+    "id": 48,
+    "nombre": "early-bird",
+    "generacion": 3,
+    "descripcion": "El Pokémon se despierta rápidamente.",
+    "pokemon_con_habilidad_count": 16
+  },
+  {
+    "id": 93,
+    "nombre": "hydration",
+    "generacion": 4,
+    "descripcion": "Cura los problemas de estado si está lloviendo.",
+    "pokemon_con_habilidad_count": 23
+  },
+  {
+    "id": 115,
+    "nombre": "ice-body",
+    "generacion": 4,
+    "descripcion": "Recupera algunos PS cuando hay tormentas de granizo.",
+    "pokemon_con_habilidad_count": 21
+  },
+  {
+    "id": 60,
+    "nombre": "sticky-hold",
+    "generacion": 3,
+    "descripcion": "Protege al Pokémon del robo de objetos.",
+    "pokemon_con_habilidad_count": 10
+  },
+  {
+    "id": 143,
+    "nombre": "poison-touch",
+    "generacion": 5,
+    "descripcion": "Puede envenenar al objetivo con solo tocarlo.",
+    "pokemon_con_habilidad_count": 11
+  },
+  {
+    "id": 223,
+    "nombre": "power-of-alchemy",
+    "generacion": 7,
+    "descripcion": "Reacciona copiando la habilidad de un aliado debilitado.",
+    "pokemon_con_habilidad_count": 2
+  },
+  {
+    "id": 92,
+    "nombre": "skill-link",
+    "generacion": 4,
+    "descripcion": "Aumenta la frecuencia de los movimientos múltiples.",
+    "pokemon_con_habilidad_count": 10
+  },
+  {
+    "id": 142,
+    "nombre": "overcoat",
+    "generacion": 5,
+    "descripcion": "Protege del polvo, la arena y el granizo.",
+    "pokemon_con_habilidad_count": 26
+  },
+  {
+    "id": 26,
+    "nombre": "levitate",
+    "generacion": 3,
+    "descripcion": "Proporciona inmunidad frente a los ataques de tipo Tierra.",
+    "pokemon_con_habilidad_count": 42
+  },
+  {
+    "id": 130,
+    "nombre": "cursed-body",
+    "generacion": 5,
+    "descripcion": "Puede anular el movimiento usado en su contra.",
+    "pokemon_con_habilidad_count": 15
+  },
+  {
+    "id": 23,
+    "nombre": "shadow-tag",
+    "generacion": 3,
+    "descripcion": "Evita que el enemigo huya.",
+    "pokemon_con_habilidad_count": 6
+  },
+  {
+    "id": 133,
+    "nombre": "weak-armor",
+    "generacion": 5,
+    "descripcion": "Un ataque físico baja la Defensa y sube la Velocidad.",
+    "pokemon_con_habilidad_count": 25
+  },
+  {
+    "id": 15,
+    "nombre": "insomnia",
+    "generacion": 3,
+    "descripcion": "Evita el quedarse dormido.",
+    "pokemon_con_habilidad_count": 24
+  },
+  {
+    "id": 108,
+    "nombre": "forewarn",
+    "generacion": 4,
+    "descripcion": "Determina el movimiento más potente del rival.",
+    "pokemon_con_habilidad_count": 6
+  },
+  {
+    "id": 52,
+    "nombre": "hyper-cutter",
+    "generacion": 3,
+    "descripcion": "Evita que disminuya el Ataque.",
+    "pokemon_con_habilidad_count": 12
+  },
+  {
+    "id": 43,
+    "nombre": "soundproof",
+    "generacion": 3,
+    "descripcion": "Evita ataques de sonido.",
+    "pokemon_con_habilidad_count": 18
+  },
+  {
+    "id": 106,
+    "nombre": "aftermath",
+    "generacion": 4,
+    "descripcion": "Daña al agresor que le ha dado el golpe de gracia.",
+    "pokemon_con_habilidad_count": 11
+  },
+  {
+    "id": 139,
+    "nombre": "harvest",
+    "generacion": 5,
+    "descripcion": "Permite reutilizar varias veces una misma baya.",
+    "pokemon_con_habilidad_count": 9
+  },
+  {
+    "id": 4,
+    "nombre": "battle-armor",
+    "generacion": 3,
+    "descripcion": "Bloquea golpes críticos.",
+    "pokemon_con_habilidad_count": 11
+  },
+  {
+    "id": 120,
+    "nombre": "reckless",
+    "generacion": 4,
+    "descripcion": "Potencia los movimientos que dañan al usuario.",
+    "pokemon_con_habilidad_count": 13
+  },
+  {
+    "id": 84,
+    "nombre": "unburden",
+    "generacion": 4,
+    "descripcion": "Sube la Velocidad si usa o pierde el objeto que lleve.",
+    "pokemon_con_habilidad_count": 17
+  },
+  {
+    "id": 89,
+    "nombre": "iron-fist",
+    "generacion": 4,
+    "descripcion": "Aumenta la fuerza de los puñetazos.",
+    "pokemon_con_habilidad_count": 19
+  },
+  {
+    "id": 256,
+    "nombre": "neutralizing-gas",
+    "generacion": 8,
+    "descripcion": "Anula los efectos de las habilidades de los demás Pokémon presentes mientras esté en el terreno de combate.",
+    "pokemon_con_habilidad_count": 3
+  },
+  {
+    "id": 228,
+    "nombre": "misty-surge",
+    "generacion": 7,
+    "descripcion": "Crea un campo de niebla al entrar en combate.",
+    "pokemon_con_habilidad_count": 2
+  },
+  {
+    "id": 30,
+    "nombre": "natural-cure",
+    "generacion": 3,
+    "descripcion": "Cura problemas de estado al cambiar de Pokémon.",
+    "pokemon_con_habilidad_count": 19
+  },
+  {
+    "id": 32,
+    "nombre": "serene-grace",
+    "generacion": 3,
+    "descripcion": "Aumenta la probabilidad de que haya efectos secundarios.",
+    "pokemon_con_habilidad_count": 15
+  },
+  {
+    "id": 131,
+    "nombre": "healer",
+    "generacion": 5,
+    "descripcion": "A veces cura los cambios de estado de un aliado.",
+    "pokemon_con_habilidad_count": 12
+  },
+  {
+    "id": 102,
+    "nombre": "leaf-guard",
+    "generacion": 4,
+    "descripcion": "Evita los problemas de estado si hace sol.",
+    "pokemon_con_habilidad_count": 23
+  },
+  {
+    "id": 185,
+    "nombre": "parental-bond",
+    "generacion": 6,
+    "descripcion": "Ataque en familia.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 41,
+    "nombre": "water-veil",
+    "generacion": 3,
+    "descripcion": "Evita las quemaduras.",
+    "pokemon_con_habilidad_count": 14
+  },
+  {
+    "id": 35,
+    "nombre": "illuminate",
+    "generacion": 3,
+    "descripcion": "Aumenta la probabilidad de encontrar Pokémon.",
+    "pokemon_con_habilidad_count": 8
+  },
+  {
+    "id": 111,
+    "nombre": "filter",
+    "generacion": 4,
+    "descripcion": "Mitiga los movimientos supereficaces.",
+    "pokemon_con_habilidad_count": 4
+  },
+  {
+    "id": 251,
+    "nombre": "screen-cleaner",
+    "generacion": 8,
+    "descripcion": "Anula los efectos de Pantalla de Luz, Reflejo y Velo Aurora tanto de rivales como de aliados al entrar en combate.",
+    "pokemon_con_habilidad_count": 2
+  },
+  {
+    "id": 104,
+    "nombre": "mold-breaker",
+    "generacion": 4,
+    "descripcion": "Usa movimientos sin que importen las habilidades del objetivo.",
+    "pokemon_con_habilidad_count": 26
+  },
+  {
+    "id": 153,
+    "nombre": "moxie",
+    "generacion": 5,
+    "descripcion": "Potencia el Ataque al debilitar a un objetivo.",
+    "pokemon_con_habilidad_count": 16
+  },
+  {
+    "id": 184,
+    "nombre": "aerilate",
+    "generacion": 6,
+    "descripcion": "Convierte movimientos de tipo Normal en tipo Volador.",
+    "pokemon_con_habilidad_count": 2
+  },
+  {
+    "id": 291,
+    "nombre": "cud-chew",
+    "generacion": 9,
+    "descripcion": "Descripción no disponible.",
+    "pokemon_con_habilidad_count": 4
+  },
+  {
+    "id": 150,
+    "nombre": "imposter",
+    "generacion": 5,
+    "descripcion": "Se transforma en el Pokémon que tiene enfrente.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 10,
+    "nombre": "volt-absorb",
+    "generacion": 3,
+    "descripcion": "Recupera PS al recibir ataques de tipo Eléctrico.",
+    "pokemon_con_habilidad_count": 13
+  },
+  {
+    "id": 95,
+    "nombre": "quick-feet",
+    "generacion": 4,
+    "descripcion": "Potencia la Velocidad si hay problemas de estado.",
+    "pokemon_con_habilidad_count": 11
+  },
+  {
+    "id": 88,
+    "nombre": "download",
+    "generacion": 4,
+    "descripcion": "Adapta su fuerza para cada rival.",
+    "pokemon_con_habilidad_count": 4
+  },
+  {
+    "id": 46,
+    "nombre": "pressure",
+    "generacion": 3,
+    "descripcion": "Hace que los PP del rival se acaben antes.",
+    "pokemon_con_habilidad_count": 36
+  },
+  {
+    "id": 17,
+    "nombre": "immunity",
+    "generacion": 3,
+    "descripcion": "Evita el envenenamiento.",
+    "pokemon_con_habilidad_count": 4
+  },
+  {
+    "id": 201,
+    "nombre": "berserk",
+    "generacion": 7,
+    "descripcion": "Aumenta el Ataque Especial si los ataques del oponente le reducen los PS a la mitad.",
+    "pokemon_con_habilidad_count": 2
+  },
+  {
+    "id": 63,
+    "nombre": "marvel-scale",
+    "generacion": 3,
+    "descripcion": "Sube la Defensa si sufre un problema de estado.",
+    "pokemon_con_habilidad_count": 3
+  },
+  {
+    "id": 136,
+    "nombre": "multiscale",
+    "generacion": 5,
+    "descripcion": "Reduce el daño sufrido si los PS están al máximo.",
+    "pokemon_con_habilidad_count": 2
+  },
+  {
+    "id": 105,
+    "nombre": "super-luck",
+    "generacion": 4,
+    "descripcion": "Aumenta la probabilidad de dar golpes críticos.",
+    "pokemon_con_habilidad_count": 9
+  },
+  {
+    "id": 156,
+    "nombre": "magic-bounce",
+    "generacion": 5,
+    "descripcion": "Permite devolver los ataques de estado.",
+    "pokemon_con_habilidad_count": 10
+  },
+  {
+    "id": 57,
+    "nombre": "plus",
+    "generacion": 3,
+    "descripcion": "Potencia el At. Esp. si algún otro Pokémon tiene Más o Menos.",
+    "pokemon_con_habilidad_count": 10
+  },
+  {
+    "id": 37,
+    "nombre": "huge-power",
+    "generacion": 3,
+    "descripcion": "Aumenta el Ataque.",
+    "pokemon_con_habilidad_count": 6
+  },
+  {
+    "id": 157,
+    "nombre": "sap-sipper",
+    "generacion": 5,
+    "descripcion": "Neutraliza los movimientos de tipo Planta y sube el Ataque.",
+    "pokemon_con_habilidad_count": 21
+  },
+  {
+    "id": 2,
+    "nombre": "drizzle",
+    "generacion": 3,
+    "descripcion": "Hace que llueva cuando entra en combate.",
+    "pokemon_con_habilidad_count": 3
+  },
+  {
+    "id": 3,
+    "nombre": "speed-boost",
+    "generacion": 3,
+    "descripcion": "Aumenta la Velocidad gradualmente.",
+    "pokemon_con_habilidad_count": 14
+  },
+  {
+    "id": 158,
+    "nombre": "prankster",
+    "generacion": 5,
+    "descripcion": "Permite lanzar ataques de estado en primer lugar.",
+    "pokemon_con_habilidad_count": 20
+  },
+  {
+    "id": 261,
+    "nombre": "curious-medicine",
+    "generacion": 8,
+    "descripcion": "Al entrar en combate, rezuma una substancia medicinal por la caracola que revierte los cambios en las características de los aliados.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 140,
+    "nombre": "telepathy",
+    "generacion": 5,
+    "descripcion": "Elude los ataques de aliados en batalla.",
+    "pokemon_con_habilidad_count": 28
+  },
+  {
+    "id": 135,
+    "nombre": "light-metal",
+    "generacion": 5,
+    "descripcion": "Reduce a la mitad el peso del Pokémon.",
+    "pokemon_con_habilidad_count": 7
+  },
+  {
+    "id": 126,
+    "nombre": "contrary",
+    "generacion": 5,
+    "descripcion": "Invierte los cambios en las características.",
+    "pokemon_con_habilidad_count": 11
+  },
+  {
+    "id": 124,
+    "nombre": "pickpocket",
+    "generacion": 5,
+    "descripcion": "Al ser golpeado, roba el objeto del objetivo.",
+    "pokemon_con_habilidad_count": 16
+  },
+  {
+    "id": 118,
+    "nombre": "honey-gather",
+    "generacion": 4,
+    "descripcion": "El Pokémon recoge Miel de donde puede.",
+    "pokemon_con_habilidad_count": 5
+  },
+  {
+    "id": 40,
+    "nombre": "magma-armor",
+    "generacion": 3,
+    "descripcion": "Evita la congelación.",
+    "pokemon_con_habilidad_count": 3
+  },
+  {
+    "id": 141,
+    "nombre": "moody",
+    "generacion": 5,
+    "descripcion": "Sube una característica mucho, pero baja otra.",
+    "pokemon_con_habilidad_count": 8
+  },
+  {
+    "id": 21,
+    "nombre": "suction-cups",
+    "generacion": 3,
+    "descripcion": "Anula movimientos y objetos que fuerzan el relevo.",
+    "pokemon_con_habilidad_count": 5
+  },
+  {
+    "id": 45,
+    "nombre": "sand-stream",
+    "generacion": 3,
+    "descripcion": "Crea una tormenta de arena en el combate.",
+    "pokemon_con_habilidad_count": 5
+  },
+  {
+    "id": 274,
+    "nombre": "wind-rider",
+    "generacion": 9,
+    "descripcion": "Descripción no disponible.",
+    "pokemon_con_habilidad_count": 3
+  },
+  {
+    "id": 182,
+    "nombre": "pixilate",
+    "generacion": 6,
+    "descripcion": "Convierte movimientos de tipo Normal en tipo Hada.",
+    "pokemon_con_habilidad_count": 3
+  },
+  {
+    "id": 90,
+    "nombre": "poison-heal",
+    "generacion": 4,
+    "descripcion": "Recupera PS si el Pokémon ha sido envenenado.",
+    "pokemon_con_habilidad_count": 3
+  },
+  {
+    "id": 54,
+    "nombre": "truant",
+    "generacion": 3,
+    "descripcion": "El Pokémon no atacará en turnos consecutivos.",
+    "pokemon_con_habilidad_count": 3
+  },
+  {
+    "id": 25,
+    "nombre": "wonder-guard",
+    "generacion": 3,
+    "descripcion": "Solo le hacen daño los movimientos supereficaces.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 96,
+    "nombre": "normalize",
+    "generacion": 4,
+    "descripcion": "Todos los movimientos se vuelven de tipo Normal.",
+    "pokemon_con_habilidad_count": 2
+  },
+  {
+    "id": 100,
+    "nombre": "stall",
+    "generacion": 4,
+    "descripcion": "El Pokémon se mueve tras todos los demás.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 134,
+    "nombre": "heavy-metal",
+    "generacion": 5,
+    "descripcion": "Duplica el peso del Pokémon.",
+    "pokemon_con_habilidad_count": 10
+  },
+  {
+    "id": 74,
+    "nombre": "pure-power",
+    "generacion": 3,
+    "descripcion": "Aumenta el Ataque.",
+    "pokemon_con_habilidad_count": 3
+  },
+  {
+    "id": 58,
+    "nombre": "minus",
+    "generacion": 3,
+    "descripcion": "Potencia el At. Esp. si algún otro Pokémon tiene Más o Menos.",
+    "pokemon_con_habilidad_count": 8
+  },
+  {
+    "id": 24,
+    "nombre": "rough-skin",
+    "generacion": 3,
+    "descripcion": "Hiere al tacto.",
+    "pokemon_con_habilidad_count": 6
+  },
+  {
+    "id": 173,
+    "nombre": "strong-jaw",
+    "generacion": 6,
+    "descripcion": "Su robusta mandíbula le confiere una potente mordedura.",
+    "pokemon_con_habilidad_count": 13
+  },
+  {
+    "id": 86,
+    "nombre": "simple",
+    "generacion": 4,
+    "descripcion": "Aumenta los cambios en las características.",
+    "pokemon_con_habilidad_count": 5
+  },
+  {
+    "id": 116,
+    "nombre": "solid-rock",
+    "generacion": 4,
+    "descripcion": "Mitiga los movimientos supereficaces.",
+    "pokemon_con_habilidad_count": 4
+  },
+  {
+    "id": 73,
+    "nombre": "white-smoke",
+    "generacion": 3,
+    "descripcion": "Evita que bajen las características.",
+    "pokemon_con_habilidad_count": 5
+  },
+  {
+    "id": 137,
+    "nombre": "toxic-boost",
+    "generacion": 5,
+    "descripcion": "Aumenta la potencia física si está envenenado.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 114,
+    "nombre": "storm-drain",
+    "generacion": 4,
+    "descripcion": "Atrae y neutraliza los movimientos de tipo Agua y sube el At. Esp.",
+    "pokemon_con_habilidad_count": 10
+  },
+  {
+    "id": 59,
+    "nombre": "forecast",
+    "generacion": 3,
+    "descripcion": "Se transforma según el tiempo atmosférico.",
+    "pokemon_con_habilidad_count": 4
+  },
+  {
+    "id": 16,
+    "nombre": "color-change",
+    "generacion": 3,
+    "descripcion": "Adopta el tipo del último movimiento del que sea blanco.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 168,
+    "nombre": "protean",
+    "generacion": 6,
+    "descripcion": "Cambia su tipo al del movimiento que acaba de usar.",
+    "pokemon_con_habilidad_count": 7
+  },
+  {
+    "id": 174,
+    "nombre": "refrigerate",
+    "generacion": 6,
+    "descripcion": "Convierte movimientos de tipo Normal en tipo Hielo.",
+    "pokemon_con_habilidad_count": 3
+  },
+  {
+    "id": 189,
+    "nombre": "primordial-sea",
+    "generacion": 6,
+    "descripcion": "Altera el clima para anular los ataques de tipo Fuego.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 190,
+    "nombre": "desolate-land",
+    "generacion": 6,
+    "descripcion": "Altera el clima para anular los ataques de tipo Agua.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 76,
+    "nombre": "air-lock",
+    "generacion": 3,
+    "descripcion": "Anula los efectos del tiempo atmosférico.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 191,
+    "nombre": "delta-stream",
+    "generacion": 6,
+    "descripcion": "Altera el clima para anular las vulnerabilidades del tipo Volador.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 122,
+    "nombre": "flower-gift",
+    "generacion": 4,
+    "descripcion": "Potencia los Pokémon del equipo si está soleado.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 138,
+    "nombre": "flare-boost",
+    "generacion": 5,
+    "descripcion": "Potencia los ataques especiales cuando el Pokémon se quema.",
+    "pokemon_con_habilidad_count": 2
+  },
+  {
+    "id": 103,
+    "nombre": "klutz",
+    "generacion": 4,
+    "descripcion": "El Pokémon no puede usar objetos equipados.",
+    "pokemon_con_habilidad_count": 12
+  },
+  {
+    "id": 85,
+    "nombre": "heatproof",
+    "generacion": 4,
+    "descripcion": "Atenúa los movimientos de tipo Fuego.",
+    "pokemon_con_habilidad_count": 5
+  },
+  {
+    "id": 78,
+    "nombre": "motor-drive",
+    "generacion": 4,
+    "descripcion": "Sube la Velocidad si le alcanza un ataque eléctrico.",
+    "pokemon_con_habilidad_count": 4
+  },
+  {
+    "id": 292,
+    "nombre": "sharpness",
+    "generacion": 9,
+    "descripcion": "Descripción no disponible.",
+    "pokemon_con_habilidad_count": 4
+  },
+  {
+    "id": 112,
+    "nombre": "slow-start",
+    "generacion": 4,
+    "descripcion": "Baja a la mitad el Ataque y la Velocidad durante un rato.",
+    "pokemon_con_habilidad_count": 2
+  },
+  {
+    "id": 123,
+    "nombre": "bad-dreams",
+    "generacion": 4,
+    "descripcion": "Reduce los PS de cualquier rival que esté dormido.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 121,
+    "nombre": "multitype",
+    "generacion": 4,
+    "descripcion": "Cambia el tipo al de la tabla que lleve.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 162,
+    "nombre": "victory-star",
+    "generacion": 5,
+    "descripcion": "Sube la Precisión de todo el equipo.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 161,
+    "nombre": "zen-mode",
+    "generacion": 5,
+    "descripcion": "Cambia de forma en un apuro.",
+    "pokemon_con_habilidad_count": 4
+  },
+  {
+    "id": 255,
+    "nombre": "gorilla-tactics",
+    "generacion": 8,
+    "descripcion": "Potencia su Ataque, pero solo puede usar el primer movimiento escogido.",
+    "pokemon_con_habilidad_count": 2
+  },
+  {
+    "id": 152,
+    "nombre": "mummy",
+    "generacion": 5,
+    "descripcion": "Contagia Momia al rival que lo toque.",
+    "pokemon_con_habilidad_count": 2
+  },
+  {
+    "id": 254,
+    "nombre": "wandering-spirit",
+    "generacion": 8,
+    "descripcion": "Si le alcanza un movimiento de contacto, intercambia su habilidad con la del agresor.",
+    "pokemon_con_habilidad_count": 2
+  },
+  {
+    "id": 129,
+    "nombre": "defeatist",
+    "generacion": 5,
+    "descripcion": "Baja las características al llegar a la mitad los PS.",
+    "pokemon_con_habilidad_count": 2
+  },
+  {
+    "id": 149,
+    "nombre": "illusion",
+    "generacion": 5,
+    "descripcion": "Se convierte en el último Pokémon del equipo.",
+    "pokemon_con_habilidad_count": 4
+  },
+  {
+    "id": 160,
+    "nombre": "iron-barbs",
+    "generacion": 5,
+    "descripcion": "Hiere al hacer contacto.",
+    "pokemon_con_habilidad_count": 4
+  },
+  {
+    "id": 250,
+    "nombre": "mimicry",
+    "generacion": 8,
+    "descripcion": "Cambia su tipo según el campo que haya en el terreno de combate.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 163,
+    "nombre": "turboblaze",
+    "generacion": 5,
+    "descripcion": "Usa movimientos sin que importen las habilidades.",
+    "pokemon_con_habilidad_count": 2
+  },
+  {
+    "id": 164,
+    "nombre": "teravolt",
+    "generacion": 5,
+    "descripcion": "Usa movimientos sin que importen las habilidades.",
+    "pokemon_con_habilidad_count": 2
+  },
+  {
+    "id": 171,
+    "nombre": "bulletproof",
+    "generacion": 6,
+    "descripcion": "No le afectan las bombas ni algunos proyectiles.",
+    "pokemon_con_habilidad_count": 11
+  },
+  {
+    "id": 170,
+    "nombre": "magician",
+    "generacion": 6,
+    "descripcion": "Roba el objeto del Pokémon al que alcance con un movimiento.",
+    "pokemon_con_habilidad_count": 6
+  },
+  {
+    "id": 210,
+    "nombre": "battle-bond",
+    "generacion": 7,
+    "descripcion": "Al derrotar a un rival, los vínculos con su Entrenador se refuerzan y se convierte en Greninja Ash. Su Shuriken de Agua también se ve potenciado.",
+    "pokemon_con_habilidad_count": 2
+  },
+  {
+    "id": 167,
+    "nombre": "cheek-pouch",
+    "generacion": 6,
+    "descripcion": "Recupera PS al comer bayas.",
+    "pokemon_con_habilidad_count": 7
+  },
+  {
+    "id": 177,
+    "nombre": "gale-wings",
+    "generacion": 6,
+    "descripcion": "Da prioridad a los movimientos de tipo Volador.",
+    "pokemon_con_habilidad_count": 3
+  },
+  {
+    "id": 166,
+    "nombre": "flower-veil",
+    "generacion": 6,
+    "descripcion": "Evita que bajen las características de Pokémon tipo Planta aliados.",
+    "pokemon_con_habilidad_count": 5
+  },
+  {
+    "id": 180,
+    "nombre": "symbiosis",
+    "generacion": 6,
+    "descripcion": "El Pokémon puede pasar su objeto a un aliado.",
+    "pokemon_con_habilidad_count": 5
+  },
+  {
+    "id": 179,
+    "nombre": "grass-pelt",
+    "generacion": 6,
+    "descripcion": "Aumenta la Defensa mientras dura el efecto de Campo de Hierba.",
+    "pokemon_con_habilidad_count": 2
+  },
+  {
+    "id": 176,
+    "nombre": "stance-change",
+    "generacion": 6,
+    "descripcion": "Cambia de forma según su estilo de combate.",
+    "pokemon_con_habilidad_count": 2
+  },
+  {
+    "id": 165,
+    "nombre": "aroma-veil",
+    "generacion": 6,
+    "descripcion": "Protege al equipo de ataques que impiden elegir movimientos.",
+    "pokemon_con_habilidad_count": 8
+  },
+  {
+    "id": 175,
+    "nombre": "sweet-veil",
+    "generacion": 6,
+    "descripcion": "Evita que tu equipo Pokémon se duerma.",
+    "pokemon_con_habilidad_count": 11
+  },
+  {
+    "id": 183,
+    "nombre": "gooey",
+    "generacion": 6,
+    "descripcion": "Baja la Velocidad del Pokémon con el que entra en contacto.",
+    "pokemon_con_habilidad_count": 7
+  },
+  {
+    "id": 187,
+    "nombre": "fairy-aura",
+    "generacion": 6,
+    "descripcion": "Aumenta la potencia de todos los movimientos de tipo Hada.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 186,
+    "nombre": "dark-aura",
+    "generacion": 6,
+    "descripcion": "Aumenta la potencia de todos los movimientos de tipo Siniestro.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 188,
+    "nombre": "aura-break",
+    "generacion": 6,
+    "descripcion": "Invierte los efectos que causan las auras.",
+    "pokemon_con_habilidad_count": 2
+  },
+  {
+    "id": 211,
+    "nombre": "power-construct",
+    "generacion": 7,
+    "descripcion": "Cuando sus PS se ven reducidos a la mitad, las células se reagrupan y adopta su Forma Completa.",
+    "pokemon_con_habilidad_count": 3
+  },
+  {
+    "id": 203,
+    "nombre": "long-reach",
+    "generacion": 7,
+    "descripcion": "Permite usar cualquier movimiento sin entrar en contacto con el rival.",
+    "pokemon_con_habilidad_count": 3
+  },
+  {
+    "id": 204,
+    "nombre": "liquid-voice",
+    "generacion": 7,
+    "descripcion": "Hace que todos los movimientos del Pokémon basados en sonido pasen a ser de tipo Agua.",
+    "pokemon_con_habilidad_count": 3
+  },
+  {
+    "id": 198,
+    "nombre": "stakeout",
+    "generacion": 7,
+    "descripcion": "Duplica el daño infligido a un Pokémon que se haya incorporado al combate mediante un cambio.",
+    "pokemon_con_habilidad_count": 9
+  },
+  {
+    "id": 217,
+    "nombre": "battery",
+    "generacion": 7,
+    "descripcion": "Potencia los movimientos especiales de los aliados.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 216,
+    "nombre": "dancer",
+    "generacion": 7,
+    "descripcion": "Permite copiar inmediatamente cualquier movimiento de baile que haya usado otro Pokémon presente en el combate.",
+    "pokemon_con_habilidad_count": 4
+  },
+  {
+    "id": 208,
+    "nombre": "schooling",
+    "generacion": 7,
+    "descripcion": "Forma bancos con sus congéneres cuando tiene muchos PS, lo cual le otorga más fuerza. Cuando le quedan pocos PS, el banco se dispersa.",
+    "pokemon_con_habilidad_count": 2
+  },
+  {
+    "id": 196,
+    "nombre": "merciless",
+    "generacion": 7,
+    "descripcion": "Hace que los movimientos asesten siempre un golpe crítico si el rival está envenenado.",
+    "pokemon_con_habilidad_count": 2
+  },
+  {
+    "id": 192,
+    "nombre": "stamina",
+    "generacion": 7,
+    "descripcion": "Aumenta la Defensa al recibir un ataque físico.",
+    "pokemon_con_habilidad_count": 3
+  },
+  {
+    "id": 199,
+    "nombre": "water-bubble",
+    "generacion": 7,
+    "descripcion": "Reduce el daño que le provocan los movimientos de tipo Fuego e impide que sufra quemaduras.",
+    "pokemon_con_habilidad_count": 3
+  },
+  {
+    "id": 212,
+    "nombre": "corrosion",
+    "generacion": 7,
+    "descripcion": "Permite envenenar incluso a rivales de tipo Acero o Veneno.",
+    "pokemon_con_habilidad_count": 5
+  },
+  {
+    "id": 218,
+    "nombre": "fluffy",
+    "generacion": 7,
+    "descripcion": "Reduce a la mitad el daño provocado por los movimientos de contacto, pero duplica el infligido por los de tipo Fuego.",
+    "pokemon_con_habilidad_count": 6
+  },
+  {
+    "id": 214,
+    "nombre": "queenly-majesty",
+    "generacion": 7,
+    "descripcion": "Intimida al rival y le impide usar movimientos con prioridad dirigidos al Pokémon.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 205,
+    "nombre": "triage",
+    "generacion": 7,
+    "descripcion": "Da prioridad a los movimientos que curan PS directamente al Pokémon.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 222,
+    "nombre": "receiver",
+    "generacion": 7,
+    "descripcion": "Adquiere la habilidad de un aliado debilitado.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 193,
+    "nombre": "wimp-out",
+    "generacion": 7,
+    "descripcion": "Se asusta y abandona el terreno de combate cuando sus PS se ven reducidos a la mitad.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 194,
+    "nombre": "emergency-exit",
+    "generacion": 7,
+    "descripcion": "Abandona el terreno de combate cuando sus PS se ven reducidos a la mitad para evitar males mayores.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 195,
+    "nombre": "water-compaction",
+    "generacion": 7,
+    "descripcion": "Aumenta mucho la Defensa si le alcanza un movimiento de tipo Agua.",
+    "pokemon_con_habilidad_count": 2
+  },
+  {
+    "id": 215,
+    "nombre": "innards-out",
+    "generacion": 7,
+    "descripcion": "Al caer debilitado, inflige al rival un daño equivalente a los PS que le quedaran.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 225,
+    "nombre": "rks-system",
+    "generacion": 7,
+    "descripcion": "Cambia su tipo según el disco que lleve instalado.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 197,
+    "nombre": "shields-down",
+    "generacion": 7,
+    "descripcion": "Rompe su coraza cuando sus PS se ven reducidos a la mitad y adopta una forma ofensiva.",
+    "pokemon_con_habilidad_count": 14
+  },
+  {
+    "id": 213,
+    "nombre": "comatose",
+    "generacion": 7,
+    "descripcion": "No despierta jamás de su profundo letargo  e incluso ataca dormido.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 209,
+    "nombre": "disguise",
+    "generacion": 7,
+    "descripcion": "Permite eludir un único ataque valiéndose de la tela que le cubre el cuerpo.",
+    "pokemon_con_habilidad_count": 4
+  },
+  {
+    "id": 219,
+    "nombre": "dazzling",
+    "generacion": 7,
+    "descripcion": "Desconcierta al rival y le impide utilizar movimientos con prioridad contra el usuario.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 200,
+    "nombre": "steelworker",
+    "generacion": 7,
+    "descripcion": "Potencia los movimientos de tipo Acero.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 226,
+    "nombre": "electric-surge",
+    "generacion": 7,
+    "descripcion": "Crea un campo eléctrico al entrar en combate.",
+    "pokemon_con_habilidad_count": 2
+  },
+  {
+    "id": 227,
+    "nombre": "psychic-surge",
+    "generacion": 7,
+    "descripcion": "Crea un campo psíquico al entrar en combate.",
+    "pokemon_con_habilidad_count": 3
+  },
+  {
+    "id": 229,
+    "nombre": "grassy-surge",
+    "generacion": 7,
+    "descripcion": "Crea un campo de hierba al entrar en combate.",
+    "pokemon_con_habilidad_count": 5
+  },
+  {
+    "id": 230,
+    "nombre": "full-metal-body",
+    "generacion": 7,
+    "descripcion": "Evita que bajen sus características a causa de movimientos o habilidades de otros Pokémon.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 231,
+    "nombre": "shadow-shield",
+    "generacion": 7,
+    "descripcion": "Reduce el daño sufrido si los PS están al máximo.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 224,
+    "nombre": "beast-boost",
+    "generacion": 7,
+    "descripcion": "Si el Pokémon derrota a un rival en ese turno, aumenta su característica más fuerte.",
+    "pokemon_con_habilidad_count": 11
+  },
+  {
+    "id": 232,
+    "nombre": "prism-armor",
+    "generacion": 7,
+    "descripcion": "Mitiga el daño que le infligen los movimientos supereficaces.",
+    "pokemon_con_habilidad_count": 3
+  },
+  {
+    "id": 233,
+    "nombre": "neuroforce",
+    "generacion": 7,
+    "descripcion": "Potencia los ataques supereficaces.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 220,
+    "nombre": "soul-heart",
+    "generacion": 7,
+    "descripcion": "Aumenta el Ataque Especial cada vez que un Pokémon cae debilitado.",
+    "pokemon_con_habilidad_count": 2
+  },
+  {
+    "id": 236,
+    "nombre": "libero",
+    "generacion": 8,
+    "descripcion": "Cambia su tipo al del movimiento que va a usar.",
+    "pokemon_con_habilidad_count": 4
+  },
+  {
+    "id": 240,
+    "nombre": "mirror-armor",
+    "generacion": 8,
+    "descripcion": "Refleja los efectos que reducen las características.",
+    "pokemon_con_habilidad_count": 2
+  },
+  {
+    "id": 238,
+    "nombre": "cotton-down",
+    "generacion": 8,
+    "descripcion": "Al ser alcanzado por un ataque, suelta una pelusa de algodón que reduce la Velocidad de todos los demás Pokémon.",
+    "pokemon_con_habilidad_count": 2
+  },
+  {
+    "id": 237,
+    "nombre": "ball-fetch",
+    "generacion": 8,
+    "descripcion": "Si no lleva equipado ningún objeto, recupera la Poké Ball del primer intento de captura fallido.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 243,
+    "nombre": "steam-engine",
+    "generacion": 8,
+    "descripcion": "Si le alcanza un movimiento de tipo Fuego o Agua, le sube muchísimo la Velocidad.",
+    "pokemon_con_habilidad_count": 4
+  },
+  {
+    "id": 247,
+    "nombre": "ripen",
+    "generacion": 8,
+    "descripcion": "Hace madurar las bayas, por lo que duplica sus efectos.",
+    "pokemon_con_habilidad_count": 5
+  },
+  {
+    "id": 245,
+    "nombre": "sand-spit",
+    "generacion": 8,
+    "descripcion": "Provoca una tormenta de arena al recibir un ataque.",
+    "pokemon_con_habilidad_count": 3
+  },
+  {
+    "id": 241,
+    "nombre": "gulp-missile",
+    "generacion": 8,
+    "descripcion": "Tras usar Surf o Buceo, emerge con una presa en la boca. Al recibir daño, ataca escupiéndola al rival.",
+    "pokemon_con_habilidad_count": 3
+  },
+  {
+    "id": 239,
+    "nombre": "propeller-tail",
+    "generacion": 8,
+    "descripcion": "Impide que el rival pueda atraer ataques hacia sí mismo por efecto de su habilidad o sus movimientos.",
+    "pokemon_con_habilidad_count": 2
+  },
+  {
+    "id": 244,
+    "nombre": "punk-rock",
+    "generacion": 8,
+    "descripcion": "Potencia los movimientos que usan sonido y reduce a la mitad el daño que le infligen dichos movimientos.",
+    "pokemon_con_habilidad_count": 4
+  },
+  {
+    "id": 252,
+    "nombre": "steely-spirit",
+    "generacion": 8,
+    "descripcion": "Potencia los movimientos de tipo Acero de los aliados.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 253,
+    "nombre": "perish-body",
+    "generacion": 8,
+    "descripcion": "Si le alcanza un movimiento de contacto, se debilitará al cabo de 3 turnos, así como su agresor, a menos que abandonen el terreno de combate.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 246,
+    "nombre": "ice-scales",
+    "generacion": 8,
+    "descripcion": "Las gélidas escamas que protegen su cuerpo reducen a la mitad el daño que le infligen los ataques especiales.",
+    "pokemon_con_habilidad_count": 2
+  },
+  {
+    "id": 249,
+    "nombre": "power-spot",
+    "generacion": 8,
+    "descripcion": "Potencia los movimientos de los Pokémon adyacentes.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 248,
+    "nombre": "ice-face",
+    "generacion": 8,
+    "descripcion": "Absorbe el daño de un ataque físico con el hielo de la cabeza, tras lo cual cambia de forma. El hielo se regenerará la próxima vez que granice.",
+    "pokemon_con_habilidad_count": 2
+  },
+  {
+    "id": 258,
+    "nombre": "hunger-switch",
+    "generacion": 8,
+    "descripcion": "Alterna entre su Forma Saciada y Forma Voraz al final de cada turno.",
+    "pokemon_con_habilidad_count": 2
+  },
+  {
+    "id": 242,
+    "nombre": "stalwart",
+    "generacion": 8,
+    "descripcion": "Impide que el rival pueda atraer ataques hacia sí mismo por efecto de su habilidad o sus movimientos.",
+    "pokemon_con_habilidad_count": 3
+  },
+  {
+    "id": 234,
+    "nombre": "intrepid-sword",
+    "generacion": 8,
+    "descripcion": "Aumenta su Ataque al entrar en combate.",
+    "pokemon_con_habilidad_count": 2
+  },
+  {
+    "id": 235,
+    "nombre": "dauntless-shield",
+    "generacion": 8,
+    "descripcion": "Aumenta su Defensa al entrar en combate.",
+    "pokemon_con_habilidad_count": 2
+  },
+  {
+    "id": 260,
+    "nombre": "unseen-fist",
+    "generacion": 8,
+    "descripcion": "Si usa un movimiento de contacto, puede infligir daño al objetivo aunque este se proteja.",
+    "pokemon_con_habilidad_count": 4
+  },
+  {
+    "id": 262,
+    "nombre": "transistor",
+    "generacion": 8,
+    "descripcion": "Potencia los movimientos de tipo Eléctrico.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 263,
+    "nombre": "dragons-maw",
+    "generacion": 8,
+    "descripcion": "Potencia los movimientos de tipo Dragón.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 264,
+    "nombre": "chilling-neigh",
+    "generacion": 8,
+    "descripcion": "Al derrotar a un objetivo, emite un relincho gélido y aumenta su Ataque.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 265,
+    "nombre": "grim-neigh",
+    "generacion": 8,
+    "descripcion": "Al derrotar a un objetivo, emite un relincho aterrador y aumenta su Ataque Especial.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 266,
+    "nombre": "as-one-glastrier",
+    "generacion": 8,
+    "descripcion": "El Pokémon tiene dos habilidades: Relincho Blanco de Glastrier y Nerviosismo de Calyrex.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 267,
+    "nombre": "as-one-spectrier",
+    "generacion": 8,
+    "descripcion": "El Pokémon tiene dos habilidades: Relincho Negro de Spectrier y Nerviosismo de Calyrex.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 299,
+    "nombre": "minds-eye",
+    "generacion": 9,
+    "descripcion": "Descripción no disponible.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 268,
+    "nombre": "lingering-aroma",
+    "generacion": 9,
+    "descripcion": "Descripción no disponible.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 273,
+    "nombre": "well-baked-body",
+    "generacion": 9,
+    "descripcion": "Descripción no disponible.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 269,
+    "nombre": "seed-sower",
+    "generacion": 9,
+    "descripcion": "Descripción no disponible.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 272,
+    "nombre": "purifying-salt",
+    "generacion": 9,
+    "descripcion": "Descripción no disponible.",
+    "pokemon_con_habilidad_count": 3
+  },
+  {
+    "id": 280,
+    "nombre": "electromorphosis",
+    "generacion": 9,
+    "descripcion": "Descripción no disponible.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 277,
+    "nombre": "wind-power",
+    "generacion": 9,
+    "descripcion": "Descripción no disponible.",
+    "pokemon_con_habilidad_count": 2
+  },
+  {
+    "id": 275,
+    "nombre": "guard-dog",
+    "generacion": 9,
+    "descripcion": "Descripción no disponible.",
+    "pokemon_con_habilidad_count": 2
+  },
+  {
+    "id": 298,
+    "nombre": "mycelium-might",
+    "generacion": 9,
+    "descripcion": "Descripción no disponible.",
+    "pokemon_con_habilidad_count": 4
+  },
+  {
+    "id": 271,
+    "nombre": "anger-shell",
+    "generacion": 9,
+    "descripcion": "Descripción no disponible.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 290,
+    "nombre": "opportunist",
+    "generacion": 9,
+    "descripcion": "Descripción no disponible.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 276,
+    "nombre": "rocky-payload",
+    "generacion": 9,
+    "descripcion": "Descripción no disponible.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 278,
+    "nombre": "zero-to-hero",
+    "generacion": 9,
+    "descripcion": "Descripción no disponible.",
+    "pokemon_con_habilidad_count": 4
+  },
+  {
+    "id": 297,
+    "nombre": "earth-eater",
+    "generacion": 9,
+    "descripcion": "Descripción no disponible.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 295,
+    "nombre": "toxic-debris",
+    "generacion": 9,
+    "descripcion": "Descripción no disponible.",
+    "pokemon_con_habilidad_count": 2
+  },
+  {
+    "id": 294,
+    "nombre": "costar",
+    "generacion": 9,
+    "descripcion": "Descripción no disponible.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 279,
+    "nombre": "commander",
+    "generacion": 9,
+    "descripcion": "Descripción no disponible.",
+    "pokemon_con_habilidad_count": 3
+  },
+  {
+    "id": 296,
+    "nombre": "armor-tail",
+    "generacion": 9,
+    "descripcion": "Descripción no disponible.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 293,
+    "nombre": "supreme-overlord",
+    "generacion": 9,
+    "descripcion": "Descripción no disponible.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 281,
+    "nombre": "protosynthesis",
+    "generacion": 9,
+    "descripcion": "Descripción no disponible.",
+    "pokemon_con_habilidad_count": 10
+  },
+  {
+    "id": 282,
+    "nombre": "quark-drive",
+    "generacion": 9,
+    "descripcion": "Descripción no disponible.",
+    "pokemon_con_habilidad_count": 10
+  },
+  {
+    "id": 270,
+    "nombre": "thermal-exchange",
+    "generacion": 9,
+    "descripcion": "Descripción no disponible.",
+    "pokemon_con_habilidad_count": 3
+  },
+  {
+    "id": 283,
+    "nombre": "good-as-gold",
+    "generacion": 9,
+    "descripcion": "Descripción no disponible.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 286,
+    "nombre": "tablets-of-ruin",
+    "generacion": 9,
+    "descripcion": "Descripción no disponible.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 285,
+    "nombre": "sword-of-ruin",
+    "generacion": 9,
+    "descripcion": "Descripción no disponible.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 284,
+    "nombre": "vessel-of-ruin",
+    "generacion": 9,
+    "descripcion": "Descripción no disponible.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 287,
+    "nombre": "beads-of-ruin",
+    "generacion": 9,
+    "descripcion": "Descripción no disponible.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 288,
+    "nombre": "orichalcum-pulse",
+    "generacion": 9,
+    "descripcion": "Descripción no disponible.",
+    "pokemon_con_habilidad_count": 9
+  },
+  {
+    "id": 289,
+    "nombre": "hadron-engine",
+    "generacion": 9,
+    "descripcion": "Descripción no disponible.",
+    "pokemon_con_habilidad_count": 9
+  },
+  {
+    "id": 300,
+    "nombre": "supersweet-syrup",
+    "generacion": 9,
+    "descripcion": "Descripción no disponible.",
+    "pokemon_con_habilidad_count": 2
+  },
+  {
+    "id": 301,
+    "nombre": "hospitality",
+    "generacion": 9,
+    "descripcion": "Descripción no disponible.",
+    "pokemon_con_habilidad_count": 2
+  },
+  {
+    "id": 302,
+    "nombre": "toxic-chain",
+    "generacion": 9,
+    "descripcion": "Descripción no disponible.",
+    "pokemon_con_habilidad_count": 3
+  },
+  {
+    "id": 304,
+    "nombre": "tera-shift",
+    "generacion": 9,
+    "descripcion": "Descripción no disponible.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 305,
+    "nombre": "tera-shell",
+    "generacion": 9,
+    "descripcion": "Descripción no disponible.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 306,
+    "nombre": "teraform-zero",
+    "generacion": 9,
+    "descripcion": "Descripción no disponible.",
+    "pokemon_con_habilidad_count": 1
+  },
+  {
+    "id": 307,
+    "nombre": "poison-puppeteer",
+    "generacion": 9,
+    "descripcion": "Descripción no disponible.",
+    "pokemon_con_habilidad_count": 1
+  }
+]
